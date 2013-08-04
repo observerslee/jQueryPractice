@@ -1,5 +1,3 @@
+# 這是我透過 https://github.com/observerslee/jQueryPractice clone 下來的,
 
-# Hello World, i am Hamm.
-
-Hello my first github repo
-
+現在我要將我修改的內容 push 回去
