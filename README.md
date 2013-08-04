@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Hello World
-=======
+
+# Hello World, i am Hamm.
+
 Hello my first github repo
->>>>>>> dc2332be2551306aade53229ee00ec99cb9613e4
+
